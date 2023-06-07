@@ -3,3 +3,4 @@
 ||facebook.com^
 ||*.blogspot.hu^
 ||fb.com^
+||instagram.com^
